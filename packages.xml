@@ -323,7 +323,7 @@
     </urls>
     <local-filename>go1.13.6.linux-amd64.tar.gz</local-filename>
     <format>tgz</format>
-    <md5>3f0ca2acb238bef57c7e2b6e3d8d0730</md5>
+    <md5>e916300691ee731894b85ed3dfa9a6eb</md5>
   </package>
   <package>
     <name>Golangci-lint</name>
@@ -334,7 +334,7 @@
     <local-filename>golangci-lint-1.24.0-linux-amd64.tar.gz</local-filename>
     <rename>golangci-lint</rename>
     <format>tgz</format>
-    <md5>d8c8fbd975b06778ccd8666026ecd09b</md5>
+    <md5>98dafb7a2e8937d1a4429cbaaaea639f</md5>
   </package>
   <package>
     <name>Cni Go Deps</name>
