@@ -279,7 +279,7 @@
     <name>ISC Bind</name>
     <urls>
       <url>{{ site_mirror }}/contrail-third-party/b/bind-9.10.4-P2.tar.gz</url>
-      <url canonical="true">http://ftp.isc.org/isc/bind9/9.10.4-P2/bind-9.10.4-P2.tar.gz</url>
+      <url canonical="true">http://www.mirrorservice.org/sites/ftp.isc.org/isc/bind9/9.10.4-P2/bind-9.10.4-P2.tar.gz</url>
     </urls>
     <format>tgz</format>
     <md5>50163d229020c48929c84bec5b0068d7</md5>
@@ -318,12 +318,12 @@
   <package>
     <name>Go 1.13</name>
     <urls>
-      <url>{{ site_mirror }}/contrail-third-party/g/go1.13.11.linux-amd64.tar.gz</url>
-      <url canonical="true">https://storage.googleapis.com/golang/go1.13.11.linux-amd64.tar.gz</url>
+      <url>{{ site_mirror }}/contrail-third-party/g/go1.13.14.linux-amd64.tar.gz</url>
+      <url canonical="true">https://storage.googleapis.com/golang/go1.13.14.linux-amd64.tar.gz</url>
     </urls>
-    <local-filename>go1.13.11.linux-amd64.tar.gz</local-filename>
+    <local-filename>go1.13.14.linux-amd64.tar.gz</local-filename>
     <format>tgz</format>
-    <md5>cf8189193f6e43fb889a83a84a0675e6</md5>
+    <md5>30f5cde561af15faf5dc8bb53e12a0e2</md5>
   </package>
   <package>
     <name>Golangci-lint</name>
